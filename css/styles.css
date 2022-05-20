@@ -1,0 +1,28 @@
+.img-header {
+    width: 155px;
+    height: 90px;
+}
+
+body {
+    font-family: sans-serif;    
+}
+
+#titulo { 
+    font-size: 1rem;   
+}
+
+nav{
+    box-shadow: 14px 0px 32px -3px #ffcc00;
+    text-align: right;
+    height: 5vh;
+}
+
+.menu {
+    width: 12vw;
+    float: right;
+}
+
+nav a:hover{
+    color: white;
+    background: #0870b0;
+}
